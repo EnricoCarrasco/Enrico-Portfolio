@@ -168,32 +168,50 @@ export default function Coporation2() {
 									<ul className="ps-3 d-flex flex-column justify-content-around h-100 position-relative">
 										<li className="position-relative z-1">
 											<div className="d-flex align-items-center gap-2">
-												<p className="text-300 text-nowrap">15 Jul:</p>
-												<span className="text-dark">Muzzilla-streaming-API-services-for-Python</span>
+												<p className="text-300 text-nowrap">25 Sep '24:</p>
+												<span className="text-dark">Studio Joshi - Hair Extensions Website</span>
 											</div>
 										</li>
 										<li className="position-relative z-1">
 											<div className="d-flex align-items-center gap-2">
-												<p className="text-300 text-nowrap">30 Jun:</p>
-												<span className="text-dark">ChatHub-Chat-application-VueJs-Mongodb</span>
+												<p className="text-300 text-nowrap">18 Jul '24:</p>
+												<span className="text-dark">First Born Society - Kraamzorg Platform</span>
 											</div>
 										</li>
 										<li className="position-relative z-1">
 											<div className="d-flex align-items-center gap-2">
-												<p className="text-300 text-nowrap">26 May:</p>
-												<span className="text-dark">DineEasy-coffee-tea-reservation-system</span>
+												<p className="text-300 text-nowrap">12 Apr '24:</p>
+												<span className="text-dark">Zoekdierenverzekering - Comparison Platform</span>
 											</div>
 										</li>
 										<li className="position-relative z-1">
 											<div className="d-flex align-items-center gap-2">
-												<p className="text-300 text-nowrap">17 Apr:</p>
-												<span className="text-dark">FinanceBuddy-Personal-finance-tracker</span>
+												<p className="text-300 text-nowrap">29 Jan '24:</p>
+												<span className="text-dark">SaaSFlowHQ - TidyCal Landing Page</span>
 											</div>
 										</li>
 										<li className="position-relative z-1">
 											<div className="d-flex align-items-center gap-2">
-												<p className="text-300 text-nowrap">05 Mar:</p>
-												<span className="text-dark">TuneStream-Music-streaming-service-API</span>
+												<p className="text-300 text-nowrap">17 Nov '23:</p>
+												<span className="text-dark">Casa Sueño - Ibiza Villa Rental</span>
+											</div>
+										</li>
+										<li className="position-relative z-1">
+											<div className="d-flex align-items-center gap-2">
+												<p className="text-300 text-nowrap">08 Sep '23:</p>
+												<span className="text-dark">Remi's Trimsalon - Booking System</span>
+											</div>
+										</li>
+										<li className="position-relative z-1">
+											<div className="d-flex align-items-center gap-2">
+												<p className="text-300 text-nowrap">22 Jun '23:</p>
+												<span className="text-dark">Eden Barbershop - WordPress Site</span>
+											</div>
+										</li>
+										<li className="position-relative z-1">
+											<div className="d-flex align-items-center gap-2">
+												<p className="text-300 text-nowrap">15 Mar '23:</p>
+												<span className="text-dark">Body Motion By Rus - Fitness Platform</span>
 											</div>
 										</li>
 									</ul>
