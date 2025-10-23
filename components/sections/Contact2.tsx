@@ -10,27 +10,27 @@ export default function Contact2() {
 						<div className="col-lg-7 pb-5 pb-lg-0">
 							<div className="position-relative">
 								<div className="position-relative z-2">
-									<h3 className="text-primary-2 mb-3">Let’s connect</h3>
+									<h3 className="text-primary-2 mb-3">Neem contact op</h3>
 									<form action="#">
 										<div className="row g-3">
 											<div className="col-md-6 ">
-												<input type="text" className="form-control bg-3 border border-1 rounded-3" id="name" name="name" placeholder="Your name" aria-label="username" />
+												<input type="text" className="form-control bg-3 border border-1 rounded-3" id="name" name="name" placeholder="Jouw naam" aria-label="username" />
 											</div>
 											<div className="col-md-6">
-												<input type="text" className="form-control bg-3 border border-1 rounded-3" id="phone" name="phone" placeholder="Phone" aria-label="phone" />
+												<input type="text" className="form-control bg-3 border border-1 rounded-3" id="phone" name="phone" placeholder="Telefoon" aria-label="phone" />
 											</div>
 											<div className="col-md-6">
-												<input type="text" className="form-control bg-3 border border-1 rounded-3" id="email" name="email" placeholder="Emaill" aria-label="email" />
+												<input type="text" className="form-control bg-3 border border-1 rounded-3" id="email" name="email" placeholder="E-mail" aria-label="email" />
 											</div>
 											<div className="col-md-6">
-												<input type="text" className="form-control bg-3 border border-1 rounded-3" id="subject" name="subject" placeholder="Subject" aria-label="subject" />
+												<input type="text" className="form-control bg-3 border border-1 rounded-3" id="subject" name="subject" placeholder="Onderwerp" aria-label="subject" />
 											</div>
 											<div className="col-12">
-												<textarea className="form-control bg-3 border border-1 rounded-3" id="message" name="message" placeholder="Message" aria-label="With textarea" defaultValue={""} />
+												<textarea className="form-control bg-3 border border-1 rounded-3" id="message" name="message" placeholder="Bericht" aria-label="With textarea" defaultValue={""} />
 											</div>
 											<div className="col-12">
 												<button type="submit" className="btn btn-primary-2 rounded-2">
-													Send Message
+													Verstuur Bericht
 													<i className="ri-arrow-right-up-line" />
 												</button>
 											</div>
@@ -48,10 +48,10 @@ export default function Contact2() {
 									</div>
 								</div>
 								<div className="ps-3 h-100">
-									<span className="text-400 fs-6">Phone Number</span>
-									<h6 className="mb-0">+1-234-567-8901</h6>
+									<span className="text-400 fs-6">Telefoon</span>
+									<h6 className="mb-0">+31650743968</h6>
 								</div>
-								<a href="tel:+1-234-567-8901" className="position-absolute top-0 start-0 w-100 h-100" />
+								<a href="tel:+31650743968" className="position-absolute top-0 start-0 w-100 h-100" />
 							</div>
 							<div className="d-flex align-items-center mb-3 position-relative d-inline-flex">
 								<div className="d-inline-block">
@@ -60,22 +60,34 @@ export default function Contact2() {
 									</div>
 								</div>
 								<div className="ps-3 h-100">
-									<span className="text-400 fs-6">Email</span>
-									<h6 className="mb-0">contact@william.design</h6>
+									<span className="text-400 fs-6">E-mail</span>
+									<h6 className="mb-0">enricocarrasconetwork@gmail.com</h6>
 								</div>
-								<a href="mailto:someone@example.com" className="position-absolute top-0 start-0 w-100 h-100" />
+								<a href="mailto:enricocarrasconetwork@gmail.com" className="position-absolute top-0 start-0 w-100 h-100" />
 							</div>
 							<div className="d-flex align-items-center mb-3 position-relative d-inline-flex">
 								<div className="d-inline-block">
 									<div className="icon-flip flex-nowrap icon-shape icon-xxl border border-1 rounded-3 bg-3">
-										<i className="ri-skype-fill text-primary-2 fs-26" />
+										<i className="ri-linkedin-fill text-primary-2 fs-26" />
 									</div>
 								</div>
 								<div className="ps-3 h-100">
-									<span className="text-400 fs-6">Skype</span>
-									<h6 className="mb-0">WilliamDesignUX</h6>
+									<span className="text-400 fs-6">LinkedIn</span>
+									<h6 className="mb-0">enrico-carrasco</h6>
 								</div>
-								<a href="skype:SKYPENAME?add" className="position-absolute top-0 start-0 w-100 h-100" />
+								<a href="https://www.linkedin.com/in/enrico-carrasco-486046aa/" target="_blank" rel="noopener noreferrer" className="position-absolute top-0 start-0 w-100 h-100" />
+							</div>
+							<div className="d-flex align-items-center mb-3 position-relative d-inline-flex">
+								<div className="d-inline-block">
+									<div className="icon-flip flex-nowrap icon-shape icon-xxl border border-1 rounded-3 bg-3">
+										<i className="ri-instagram-fill text-primary-2 fs-26" />
+									</div>
+								</div>
+								<div className="ps-3 h-100">
+									<span className="text-400 fs-6">Instagram</span>
+									<h6 className="mb-0">@enrico.r.carrasco</h6>
+								</div>
+								<a href="https://www.instagram.com/enrico.r.carrasco/?hl=nl" target="_blank" rel="noopener noreferrer" className="position-absolute top-0 start-0 w-100 h-100" />
 							</div>
 							<div className="d-flex align-items-center mb-3 position-relative d-inline-flex">
 								<div className="d-inline-block">
@@ -84,10 +96,10 @@ export default function Contact2() {
 									</div>
 								</div>
 								<div className="ps-3 h-100">
-									<span className="text-400 fs-6">Address</span>
-									<h6 className="mb-0">0811 Erdman Prairie, Joaville CA</h6>
+									<span className="text-400 fs-6">Adres</span>
+									<h6 className="mb-0">Westkanaalweg 96, Ter Aar</h6>
 								</div>
-								<a href="https://maps.google.com/maps?q=1st+avenue,New+York" className="position-absolute top-0 start-0 w-100 h-100" />
+								<a href="https://maps.google.com/maps?q=Westkanaalweg+96,Ter+Aar" target="_blank" rel="noopener noreferrer" className="position-absolute top-0 start-0 w-100 h-100" />
 							</div>
 						</div>
 					</div>
