@@ -44,17 +44,11 @@ export default function Header({ scroll, isMobileMenu, handleMobileMenu,isOffCan
 								</div>
 								<div className="navbar-social d-flex align-items-center pe-5 pe-lg-0 me-5 me-lg-0">
 									<div className="d-md-flex d-none gap-3">
-										<Link href="/http://facebook.com">
-											<i className="ri-facebook-circle-fill fs-18" />
-										</Link>
-										<Link href="/http://twitter.com">
-											<i className="ri-twitter-x-fill fs-18" />
-										</Link>
-										<Link href="/http://linkedin.com">
+										<Link href="https://www.linkedin.com/in/enrico-carrasco-486046aa/" target="_blank" rel="noopener noreferrer">
 											<i className="ri-linkedin-fill fs-18" />
 										</Link>
-										<Link href="/http://github.com">
-											<i className="ri-github-fill fs-18" />
+										<Link href="https://www.instagram.com/enrico.r.carrasco/?hl=nl" target="_blank" rel="noopener noreferrer">
+											<i className="ri-instagram-fill fs-18" />
 										</Link>
 									</div>
 									<div className="burger-icon burger-icon-white border rounded-3" onClick={handleMobileMenu}>
