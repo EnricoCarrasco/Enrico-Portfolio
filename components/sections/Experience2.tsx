@@ -14,15 +14,15 @@ export default function Experience2() {
 									<svg className="text-primary-2 me-2" xmlns="http://www.w3.org/2000/svg" width={5} height={6} viewBox="0 0 5 6" fill="none">
 										<circle cx="2.5" cy={3} r="2.5" fill="#A8FF53" />
 									</svg>
-									<span className="text-linear-4 d-flex align-items-center"> Expericence </span>
+									<span className="text-linear-4 d-flex align-items-center"> Ervaring </span>
 								</div>
 								<h3>
-									+12
+									+8
 									<span className="text-300">years of </span>
-									passion
+									experience
 									<span className="text-300">
-										for <br />
-										programming techniques
+										in <br />
+										web development & AI
 									</span>
 								</h3>
 								<div className="row mt-5">
@@ -30,55 +30,37 @@ export default function Experience2() {
 										<div className="d-flex flex-column gap-2">
 											<Link href="#" className="technology border border-1 rounded-3 p-3">
 												<div className="d-flex align-items-center gap-2">
-													<img src="assets/imgs/home-page-2/experience/google.svg" alt="Enrico Portfolio" />
 													<div className="d-flex flex-column ms-2">
-														<h5 className="mb-1">Google</h5>
-														<span className="text-300">2018 - Present</span>
+														<h5 className="mb-1">Enrico Carrasco Network</h5>
+														<span className="text-300">2017 - Present</span>
 													</div>
 												</div>
 											</Link>
 											<Link href="#" className="technology border border-1 rounded-3 p-3">
 												<div className="d-flex align-items-center gap-2">
-													<img src="assets/imgs/home-page-2/experience/twitter.svg" alt="Enrico Portfolio" />
 													<div className="d-flex flex-column ms-2">
-														<h5 className="mb-1">Twitter (X)</h5>
-														<span className="text-300">2012 - 2015</span>
-													</div>
-												</div>
-											</Link>
-											<Link href="#" className="technology border border-1 rounded-3 p-3">
-												<div className="d-flex align-items-center gap-2">
-													<img src="assets/imgs/home-page-2/experience/amazon.svg" alt="Enrico Portfolio" />
-													<div className="d-flex flex-column ms-2">
-														<h5 className="mb-1">Amazon</h5>
-														<span className="text-300">2018 - Present</span>
-													</div>
-												</div>
-											</Link>
-											<Link href="#" className="technology border border-1 rounded-3 p-3">
-												<div className="d-flex align-items-center gap-2">
-													<img src="assets/imgs/home-page-2/experience/payPal.svg" alt="Enrico Portfolio" />
-													<div className="d-flex flex-column ms-2">
-														<h5 className="mb-1">PayPal</h5>
-														<span className="text-300">2010 - 2012</span>
+														<h5 className="mb-1">ROC Leiden</h5>
+														<span className="text-300">2014 - 2017</span>
 													</div>
 												</div>
 											</Link>
 										</div>
 									</div>
 									<div className="col-lg-8 ps-lg-5 mt-5 mt-lg-0">
-										<h6 className="text-linear-4">Senior Software Engineer</h6>
+										<h6 className="text-linear-4">Web Developer & AI Specialist</h6>
 										<ul className="mt-4">
-											<li className="text-dark mb-3">Led development of scalable web applications, <span className="text-secondary-2">improving performance</span> and user experience for millions of users.</li>
-											<li className="text-dark mb-3">Implemented machine learning algorithms to enhance search functionality.</li>
-											<li className="text-dark mb-3">Collaborated with cross-functional teams to integrate new features seamlessly.</li>
+											<li className="text-dark mb-3">Founder of <span className="text-secondary-2">Enrico Carrasco Network</span>, specializing in web development and AI-powered solutions.</li>
+											<li className="text-dark mb-3">Developed modern websites and applications using Next.js, React, WordPress, and Shopify for various clients.</li>
+											<li className="text-dark mb-3">Leveraged AI tools like Claude Code, Codex, and Midjourney to enhance development workflow and create innovative solutions.</li>
+											<li className="text-dark mb-3">Completed education in <span className="text-secondary-2">Application Development</span> at ROC Leiden (2014-2017).</li>
 										</ul>
 										<div className="d-flex flex-wrap align-items-center gap-3 mt-7">
-											<Link href="#" className="text-300 border border-1 px-3 py-1">Python</Link>
-											<Link href="#" className="text-300 border border-1 px-3 py-1">TensorFlow</Link>
-											<Link href="#" className="text-300 border border-1 px-3 py-1">Angular</Link>
-											<Link href="#" className="text-300 border border-1 px-3 py-1">Kubernetes</Link>
-											<Link href="#" className="text-300 border border-1 px-3 py-1">GCP</Link>
+											<Link href="#" className="text-300 border border-1 px-3 py-1">Next.js</Link>
+											<Link href="#" className="text-300 border border-1 px-3 py-1">React</Link>
+											<Link href="#" className="text-300 border border-1 px-3 py-1">WordPress</Link>
+											<Link href="#" className="text-300 border border-1 px-3 py-1">Claude Code</Link>
+											<Link href="#" className="text-300 border border-1 px-3 py-1">Midjourney</Link>
+											<Link href="#" className="text-300 border border-1 px-3 py-1">Marketing</Link>
 										</div>
 									</div>
 								</div>
