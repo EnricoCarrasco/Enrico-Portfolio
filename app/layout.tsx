@@ -28,8 +28,8 @@ const dmMono = DM_Mono({
 })
 
 export const metadata: Metadata = {
-	title: "Enrico Arrasco - Portfolio",
-	description: "Enrico Arrasco - Webontwikkelaar met focus op AI & moderne tools",
+	title: "Enrico Carrasco - Portfolio",
+	description: "Enrico Carrasco - Webontwikkelaar met focus op AI & moderne tools",
 }
 
 export default function RootLayout({
