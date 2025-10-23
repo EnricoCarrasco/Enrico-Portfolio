@@ -13,9 +13,9 @@ export default function Home2() {
 							<div className="row align-items-center py-60">
 								<div className="col-lg-5 ps-lg-5 text-lg-start text-center">
 									<div className="position-relative mb-lg-0 mb-5">
-										<img src="assets/imgs/home-page-2/hero-1/enrico.jpeg" alt="zelio" />
+										<img src="assets/imgs/home-page-2/hero-1/enrico.jpeg" alt="Enrico Portfolio" />
 										<div className="position-absolute end-0 top-100 translate-middle-y icon-decorate">
-											<img src="assets/imgs/home-page-2/hero-1/icon.svg" alt="zelio" />
+											<img src="assets/imgs/home-page-2/hero-1/icon.svg" alt="Enrico Portfolio" />
 										</div>
 									</div>
 								</div>
@@ -25,7 +25,7 @@ export default function Home2() {
 											&lt;span&gt;
 											<div className="text-dark">
 												<div className="typewriter">
-													<h1 className="fs-6 fw-medium">Hé, ik ben Enrico</h1>
+													<h1 className="fs-6 fw-medium">Héllo, ik ben Enrico</h1>
 												</div>
 											</div>
 											&lt;/span&gt;
@@ -68,8 +68,8 @@ export default function Home2() {
 					</div>
 				</div>
 				<div className="background position-absolute top-0 start-0 w-100 h-100">
-					<img className="bg-w" src="assets/imgs/home-page-2/hero-1/bg.png" alt="zelio" />
-					<img className="bg-d" src="assets/imgs/home-page-2/hero-1/bg-dark.png" alt="zelio" />
+					<img className="bg-w" src="assets/imgs/home-page-2/hero-1/bg.png" alt="Enrico Portfolio" />
+					<img className="bg-d" src="assets/imgs/home-page-2/hero-1/bg-dark.png" alt="Enrico Portfolio" />
 				</div>
 			</section>
 

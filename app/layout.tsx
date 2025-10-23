@@ -28,8 +28,8 @@ const dmMono = DM_Mono({
 })
 
 export const metadata: Metadata = {
-	title: "Zelio - Personal Portfolio Template",
-	description: "Zelio - Personal Portfolio Template",
+	title: "Enrico Arrasco - Portfolio",
+	description: "Enrico Arrasco - Webontwikkelaar met focus op AI & moderne tools",
 }
 
 export default function RootLayout({
@@ -38,7 +38,7 @@ export default function RootLayout({
 	children: React.ReactNode
 }>) {
 	return (
-		<html lang="en" data-bs-theme="dark" className="zelio">
+		<html lang="en" data-bs-theme="dark" className="enrico-portfolio">
 			<body className={`${urbanist.variable} ${playfair_display.variable} ${dmMono.variable}`}>{children}</body>
 		</html>
 	)
