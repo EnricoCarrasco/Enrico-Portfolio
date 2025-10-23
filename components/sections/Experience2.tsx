@@ -49,10 +49,10 @@ export default function Experience2() {
 									<div className="col-lg-8 ps-lg-5 mt-5 mt-lg-0">
 										<h6 className="text-linear-4">Webontwikkelaar & AI Specialist</h6>
 										<ul className="mt-4">
-											<li className="text-dark mb-3">Oprichter van <span className="text-secondary-2">Enrico Carrasco Network</span>, gespecialiseerd in webontwikkeling en AI-oplossingen.</li>
-											<li className="text-dark mb-3">Ontwikkelde moderne websites en applicaties met Next.js, React, WordPress en Shopify voor diverse klanten.</li>
-											<li className="text-dark mb-3">Gebruikt AI-tools zoals Claude Code, Codex en Midjourney om de ontwikkelworkflow te verbeteren en innovatieve oplossingen te creëren.</li>
-											<li className="text-dark mb-3">Afgestudeerd in <span className="text-secondary-2">Applicatie Ontwikkeling</span> bij ROC Leiden (2014-2017).</li>
+											<li className="text-300 mb-3">Oprichter van <span className="text-secondary-2">Enrico Carrasco Network</span>, gespecialiseerd in webontwikkeling en AI-oplossingen.</li>
+											<li className="text-300 mb-3">Ontwikkelde moderne websites en applicaties met Next.js, React, WordPress en Shopify voor diverse klanten.</li>
+											<li className="text-300 mb-3">Gebruikt AI-tools zoals Claude Code, Codex en Midjourney om de ontwikkelworkflow te verbeteren en innovatieve oplossingen te creëren.</li>
+											<li className="text-300 mb-3">Afgestudeerd in <span className="text-secondary-2">Applicatie Ontwikkeling</span> bij ROC Leiden (2014-2017).</li>
 										</ul>
 										<div className="d-flex flex-wrap align-items-center gap-3 mt-7">
 											<Link href="#" className="text-300 border border-1 px-3 py-1">Next.js</Link>
