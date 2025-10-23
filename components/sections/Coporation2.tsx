@@ -168,6 +168,12 @@ export default function Coporation2() {
 									<ul className="ps-3 d-flex flex-column justify-content-around h-100 position-relative">
 										<li className="position-relative z-1">
 											<div className="d-flex align-items-center gap-2">
+												<p className="text-300 text-nowrap">08 Sep '23:</p>
+												<span className="text-dark">Remi's Trimsalon - Booking System</span>
+											</div>
+										</li>
+										<li className="position-relative z-1">
+											<div className="d-flex align-items-center gap-2">
 												<p className="text-300 text-nowrap">25 Sep '24:</p>
 												<span className="text-dark">Studio Joshi - Hair Extensions Website</span>
 											</div>
@@ -194,12 +200,6 @@ export default function Coporation2() {
 											<div className="d-flex align-items-center gap-2">
 												<p className="text-300 text-nowrap">17 Nov '23:</p>
 												<span className="text-dark">Casa Sueño - Ibiza Villa Rental</span>
-											</div>
-										</li>
-										<li className="position-relative z-1">
-											<div className="d-flex align-items-center gap-2">
-												<p className="text-300 text-nowrap">08 Sep '23:</p>
-												<span className="text-dark">Remi's Trimsalon - Booking System</span>
 											</div>
 										</li>
 										<li className="position-relative z-1">
