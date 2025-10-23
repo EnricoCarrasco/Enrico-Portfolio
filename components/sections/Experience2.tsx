@@ -18,11 +18,11 @@ export default function Experience2() {
 								</div>
 								<h3>
 									+8
-									<span className="text-300">years of </span>
-									experience
+									<span className="text-300">jaar </span>
+									ervaring
 									<span className="text-300">
 										in <br />
-										web development & AI
+										webontwikkeling & AI
 									</span>
 								</h3>
 								<div className="row mt-5">
@@ -47,12 +47,12 @@ export default function Experience2() {
 										</div>
 									</div>
 									<div className="col-lg-8 ps-lg-5 mt-5 mt-lg-0">
-										<h6 className="text-linear-4">Web Developer & AI Specialist</h6>
+										<h6 className="text-linear-4">Webontwikkelaar & AI Specialist</h6>
 										<ul className="mt-4">
-											<li className="text-dark mb-3">Founder of <span className="text-secondary-2">Enrico Carrasco Network</span>, specializing in web development and AI-powered solutions.</li>
-											<li className="text-dark mb-3">Developed modern websites and applications using Next.js, React, WordPress, and Shopify for various clients.</li>
-											<li className="text-dark mb-3">Leveraged AI tools like Claude Code, Codex, and Midjourney to enhance development workflow and create innovative solutions.</li>
-											<li className="text-dark mb-3">Completed education in <span className="text-secondary-2">Application Development</span> at ROC Leiden (2014-2017).</li>
+											<li className="text-dark mb-3">Oprichter van <span className="text-secondary-2">Enrico Carrasco Network</span>, gespecialiseerd in webontwikkeling en AI-oplossingen.</li>
+											<li className="text-dark mb-3">Ontwikkelde moderne websites en applicaties met Next.js, React, WordPress en Shopify voor diverse klanten.</li>
+											<li className="text-dark mb-3">Gebruikt AI-tools zoals Claude Code, Codex en Midjourney om de ontwikkelworkflow te verbeteren en innovatieve oplossingen te creëren.</li>
+											<li className="text-dark mb-3">Afgestudeerd in <span className="text-secondary-2">Applicatie Ontwikkeling</span> bij ROC Leiden (2014-2017).</li>
 										</ul>
 										<div className="d-flex flex-wrap align-items-center gap-3 mt-7">
 											<Link href="#" className="text-300 border border-1 px-3 py-1">Next.js</Link>
