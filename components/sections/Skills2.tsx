@@ -84,31 +84,31 @@ export default function Skills2() {
 															<li className="mb-3">
 																<div className="d-flex flex-column flex-md-row gap-2">
 																	<p className="text-dark text-nowrap mb-0">Web Development:</p>
-																	<span className="text-300">Next.js, React, WordPress, Shopify</span>
+																	<span className="text-300">Next.js, React, WordPress, Shopify, HTML, CSS, Javascript</span>
 																</div>
 															</li>
 															<li className="mb-3">
 																<div className="d-flex flex-column flex-md-row gap-2">
 																	<p className="text-dark text-nowrap mb-0">AI Tools:</p>
-																	<span className="text-300">Claude Code, Codex, Midjourney</span>
+																	<span className="text-300">Claude Code, Codex, Midjourney, RunwayML, OpenAI(Api's)</span>
 																</div>
 															</li>
 															<li className="mb-3">
 																<div className="d-flex flex-column flex-md-row gap-2">
 																	<p className="text-dark text-nowrap mb-0">Marketing:</p>
-																	<span className="text-300">SEO, Social Media, Content Strategy</span>
+																	<span className="text-300">SEO, Social Media, Google Ads, Facebook(Meta) Ads</span>
 																</div>
 															</li>
 															<li className="mb-3">
 																<div className="d-flex flex-column flex-md-row gap-2">
 																	<p className="text-dark text-nowrap mb-0">CMS Platforms:</p>
-																	<span className="text-300">WordPress, Shopify, Custom Solutions</span>
+																	<span className="text-300">WordPress, Shopify</span>
 																</div>
 															</li>
 															<li className="mb-3">
 																<div className="d-flex flex-column flex-md-row gap-2">
 																	<p className="text-dark text-nowrap mb-0">Design Tools:</p>
-																	<span className="text-300">Figma, Adobe Creative Suite, Midjourney</span>
+																	<span className="text-300">Figma, Midjourney, Photoshop</span>
 																</div>
 															</li>
 														</ul>

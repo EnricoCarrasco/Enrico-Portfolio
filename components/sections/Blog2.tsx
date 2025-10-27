@@ -13,9 +13,10 @@ export default function Blog2() {
 							<svg className="text-primary-2 me-2" xmlns="http://www.w3.org/2000/svg" width={5} height={6} viewBox="0 0 5 6" fill="none">
 								<circle cx="2.5" cy={3} r="2.5" fill="#A8FF53" />
 							</svg>
-							<span className="text-linear-4 d-flex align-items-center"> Latest Posts </span>
+							<span className="text-linear-4 d-flex align-items-center"> Nieuwste Applicaties </span>
 						</div>
-						<h3>From Blog</h3>
+						<h3>Web Apps & API's</h3>
+					<p className="text-300 mt-2">Functionele applicaties met API integraties en geavanceerde features</p>
 					</div>
 					<div className="row mt-8">
 						{/*prettier-ignore*/}

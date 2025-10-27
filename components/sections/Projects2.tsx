@@ -37,9 +37,10 @@ export default function Projects2() {
 									<svg className="text-primary-2 me-2" xmlns="http://www.w3.org/2000/svg" width={5} height={6} viewBox="0 0 5 6" fill="none">
 										<circle cx="2.5" cy={3} r="2.5" fill="#A8FF53" />
 									</svg>
-									<span className="text-linear-4 d-flex align-items-center"> Projects </span>
+									<span className="text-linear-4 d-flex align-items-center"> Projecten </span>
 								</div>
-								<h3>My Recent Works</h3>
+								<h3>Recent Gemaakte Websites</h3>
+								<p className="text-300">Mijn recent ontwikkelde websites - van concept tot realisatie</p>
 								<div className="position-relative">
 									<Swiper {...swiperOptions} className="swiper slider-two pb-3 position-relative">
 										<div className="swiper-wrapper">
@@ -47,7 +48,52 @@ export default function Projects2() {
 												<div className="p-lg-5 p-md-4 p-3 border border-1 mt-5 bg-3">
 													<div className="row">
 														<div className="col-lg-5">
-															<img className="w-100" src="assets/imgs/home-page-2/projects/img-1.png" alt="Enrico Portfolio" />
+															<img className="w-100" src="assets/imgs/home-page-2/projects/GrowInity.png" alt="GrowInity Website" />
+														</div>
+														<div className="col-lg-7 ps-lg-5 mt-5 mt-lg-0">
+															<h4 className="text-linear-4">
+																GrowInity <br />
+																Website Development Agency
+															</h4>
+															<p>Professioneel webbureau gespecialiseerd in WordPress en React/Next.js websites voor Nederlandse ondernemers</p>
+															<ul className="mt-4 list-unstyled">
+																<li className="text-secondary-2 mb-3 border-bottom pb-3">Project Info</li>
+																<li className="text-dark mb-3 border-bottom pb-3">
+																	<div className="d-flex justify-content-between">
+																		<p className="text-dark mb-0 text-end">Client</p>
+																		<p className="text-300 mb-0 text-end">GrowInity</p>
+																	</div>
+																</li>
+																<li className="text-dark mb-3 border-bottom pb-3">
+																	<div className="d-flex justify-content-between">
+																		<p className="text-dark mb-0 text-end">Category</p>
+																		<p className="text-300 mb-0 text-end">Web Development / Agency</p>
+																	</div>
+																</li>
+																<li className="text-dark mb-3 border-bottom pb-3">
+																	<div className="d-flex justify-content-between">
+																		<p className="text-dark mb-0 text-end">Technologies</p>
+																		<p className="text-300 mb-0 text-end">React, Next.js, TypeScript, WordPress</p>
+																	</div>
+																</li>
+															</ul>
+															<div className="d-flex flex-wrap align-items-center gap-3 mt-7">
+																<Link href="https://www.growinity.nl/" target="_blank" className="text-300 border-bottom border-1 px-2 pb-2 link-hover">
+																	<svg xmlns="http://www.w3.org/2000/svg" width={13} height={13} viewBox="0 0 13 13" fill="none">
+																		<path d="M11.0037 3.91421L2.39712 12.5208L0.98291 11.1066L9.5895 2.5H2.00373V0.5H13.0037V11.5H11.0037V3.91421Z" fill="#8F8F92" />
+																	</svg>
+																	Bezoek Website
+																</Link>
+															</div>
+														</div>
+													</div>
+												</div>
+											</SwiperSlide>
+											<SwiperSlide>
+												<div className="p-lg-5 p-md-4 p-3 border border-1 mt-5 bg-3">
+													<div className="row">
+														<div className="col-lg-5">
+															<img className="w-100" src="assets/imgs/home-page-2/projects/StudioJoshi.png" alt="Studio Joshi Website" />
 														</div>
 														<div className="col-lg-7 ps-lg-5 mt-5 mt-lg-0">
 															<h4 className="text-linear-4">
@@ -77,11 +123,11 @@ export default function Projects2() {
 																</li>
 															</ul>
 															<div className="d-flex flex-wrap align-items-center gap-3 mt-7">
-																<Link href="https://www.growinity.nl/portfolio" target="_blank" className="text-300 border-bottom border-1 px-2 pb-2 link-hover">
+																<Link href="https://www.studiojoshi.nl" target="_blank" className="text-300 border-bottom border-1 px-2 pb-2 link-hover">
 																	<svg xmlns="http://www.w3.org/2000/svg" width={13} height={13} viewBox="0 0 13 13" fill="none">
 																		<path d="M11.0037 3.91421L2.39712 12.5208L0.98291 11.1066L9.5895 2.5H2.00373V0.5H13.0037V11.5H11.0037V3.91421Z" fill="#8F8F92" />
 																	</svg>
-																	View Portfolio
+																	Bezoek Website
 																</Link>
 															</div>
 														</div>
@@ -92,7 +138,7 @@ export default function Projects2() {
 												<div className="p-lg-5 p-md-4 p-3 border border-1 mt-5 bg-3">
 													<div className="row">
 														<div className="col-lg-5">
-															<img className="w-100" src="assets/imgs/home-page-2/projects/img-1.png" alt="Enrico Portfolio" />
+															<img className="w-100" src="assets/imgs/home-page-2/projects/firstborn.png" alt="First Born Society Website" />
 														</div>
 														<div className="col-lg-7 ps-lg-5 mt-5 mt-lg-0">
 															<h4 className="text-linear-4">
@@ -122,11 +168,11 @@ export default function Projects2() {
 																</li>
 															</ul>
 															<div className="d-flex flex-wrap align-items-center gap-3 mt-7">
-																<Link href="https://www.growinity.nl/portfolio" target="_blank" className="text-300 border-bottom border-1 px-2 pb-2 link-hover">
+																<Link href="https://www.firstbornsociety.nl" target="_blank" className="text-300 border-bottom border-1 px-2 pb-2 link-hover">
 																	<svg xmlns="http://www.w3.org/2000/svg" width={13} height={13} viewBox="0 0 13 13" fill="none">
 																		<path d="M11.0037 3.91421L2.39712 12.5208L0.98291 11.1066L9.5895 2.5H2.00373V0.5H13.0037V11.5H11.0037V3.91421Z" fill="#8F8F92" />
 																	</svg>
-																	View Portfolio
+																	Bezoek Website
 																</Link>
 															</div>
 														</div>
@@ -137,7 +183,7 @@ export default function Projects2() {
 												<div className="p-lg-5 p-md-4 p-3 border border-1 mt-5 bg-3">
 													<div className="row">
 														<div className="col-lg-5">
-															<img className="w-100" src="assets/imgs/home-page-2/projects/img-1.png" alt="Enrico Portfolio" />
+															<img className="w-100" src="assets/imgs/home-page-2/projects/zoekdierenverzekering.png" alt="Zoekdierenverzekering Website" />
 														</div>
 														<div className="col-lg-7 ps-lg-5 mt-5 mt-lg-0">
 															<h4 className="text-linear-4">
@@ -167,11 +213,11 @@ export default function Projects2() {
 																</li>
 															</ul>
 															<div className="d-flex flex-wrap align-items-center gap-3 mt-7">
-																<Link href="https://www.growinity.nl/portfolio" target="_blank" className="text-300 border-bottom border-1 px-2 pb-2 link-hover">
+																<Link href="https://www.zoekdierenverzekering.nl" target="_blank" className="text-300 border-bottom border-1 px-2 pb-2 link-hover">
 																	<svg xmlns="http://www.w3.org/2000/svg" width={13} height={13} viewBox="0 0 13 13" fill="none">
 																		<path d="M11.0037 3.91421L2.39712 12.5208L0.98291 11.1066L9.5895 2.5H2.00373V0.5H13.0037V11.5H11.0037V3.91421Z" fill="#8F8F92" />
 																	</svg>
-																	View Portfolio
+																	Bezoek Website
 																</Link>
 															</div>
 														</div>
