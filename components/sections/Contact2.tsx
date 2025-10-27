@@ -29,7 +29,7 @@ export default function Contact2() {
 												<textarea className="form-control bg-3 border border-1 rounded-3" id="message" name="message" placeholder="Bericht" aria-label="With textarea" defaultValue={""} />
 											</div>
 											<div className="col-12">
-												<button type="submit" className="btn btn-primary-2 rounded-2">
+												<button type="submit" className="btn btn-primary-2 rounded-2" aria-label="Verstuur contactformulier">
 													Verstuur Bericht
 													<i className="ri-arrow-right-up-line" />
 												</button>
@@ -49,9 +49,9 @@ export default function Contact2() {
 								</div>
 								<div className="ps-3 h-100">
 									<span className="text-400 fs-6">Telefoon</span>
-									<h6 className="mb-0">+31650743968</h6>
+									<h5 className="mb-0">+31650743968</h5>
 								</div>
-								<a href="tel:+31650743968" className="position-absolute top-0 start-0 w-100 h-100" />
+								<a href="tel:+31650743968" className="position-absolute top-0 start-0 w-100 h-100" aria-label="Bel +31650743968" />
 							</div>
 							<div className="d-flex align-items-center mb-3 position-relative d-inline-flex">
 								<div className="d-inline-block">
@@ -61,9 +61,9 @@ export default function Contact2() {
 								</div>
 								<div className="ps-3 h-100">
 									<span className="text-400 fs-6">E-mail</span>
-									<h6 className="mb-0">enricocarrasconetwork@gmail.com</h6>
+									<h5 className="mb-0">enricocarrasconetwork@gmail.com</h5>
 								</div>
-								<a href="mailto:enricocarrasconetwork@gmail.com" className="position-absolute top-0 start-0 w-100 h-100" />
+								<a href="mailto:enricocarrasconetwork@gmail.com" className="position-absolute top-0 start-0 w-100 h-100" aria-label="Mail naar enricocarrasconetwork@gmail.com" />
 							</div>
 							<div className="d-flex align-items-center mb-3 position-relative d-inline-flex">
 								<div className="d-inline-block">
@@ -73,9 +73,9 @@ export default function Contact2() {
 								</div>
 								<div className="ps-3 h-100">
 									<span className="text-400 fs-6">LinkedIn</span>
-									<h6 className="mb-0">enrico-carrasco</h6>
+									<h5 className="mb-0">enrico-carrasco</h5>
 								</div>
-								<a href="https://www.linkedin.com/in/enrico-carrasco-486046aa/" target="_blank" rel="noopener noreferrer" className="position-absolute top-0 start-0 w-100 h-100" />
+								<a href="https://www.linkedin.com/in/enrico-carrasco-486046aa/" target="_blank" rel="noopener noreferrer" className="position-absolute top-0 start-0 w-100 h-100" aria-label="LinkedIn profiel van Enrico Carrasco" />
 							</div>
 							<div className="d-flex align-items-center mb-3 position-relative d-inline-flex">
 								<div className="d-inline-block">
@@ -85,9 +85,9 @@ export default function Contact2() {
 								</div>
 								<div className="ps-3 h-100">
 									<span className="text-400 fs-6">Instagram</span>
-									<h6 className="mb-0">@enrico.r.carrasco</h6>
+									<h5 className="mb-0">@enrico.r.carrasco</h5>
 								</div>
-								<a href="https://www.instagram.com/enrico.r.carrasco/?hl=nl" target="_blank" rel="noopener noreferrer" className="position-absolute top-0 start-0 w-100 h-100" />
+								<a href="https://www.instagram.com/enrico.r.carrasco/?hl=nl" target="_blank" rel="noopener noreferrer" className="position-absolute top-0 start-0 w-100 h-100" aria-label="Instagram profiel van Enrico Carrasco" />
 							</div>
 							<div className="d-flex align-items-center mb-3 position-relative d-inline-flex">
 								<div className="d-inline-block">
@@ -97,9 +97,9 @@ export default function Contact2() {
 								</div>
 								<div className="ps-3 h-100">
 									<span className="text-400 fs-6">Adres</span>
-									<h6 className="mb-0">Westkanaalweg 96, Ter Aar</h6>
+									<h5 className="mb-0">Westkanaalweg 96, Ter Aar</h5>
 								</div>
-								<a href="https://maps.google.com/maps?q=Westkanaalweg+96,Ter+Aar" target="_blank" rel="noopener noreferrer" className="position-absolute top-0 start-0 w-100 h-100" />
+								<a href="https://maps.google.com/maps?q=Westkanaalweg+96,Ter+Aar" target="_blank" rel="noopener noreferrer" className="position-absolute top-0 start-0 w-100 h-100" aria-label="Bekijk locatie op Google Maps" />
 							</div>
 						</div>
 					</div>

@@ -10,9 +10,9 @@ export default function Header({ scroll, isMobileMenu, handleMobileMenu,isOffCan
 				<div className="container position-relative">
 					<div className="position-relative">
 						<nav className="navbar navbar-expand-lg navbar-home-2 flex-nowrap z-999 p-0 border border-1 rounded-3">
-							<a className="navbar-menu p-4 text-center square-100 menu-tigger icon_80 icon-shape d-none d-md-flex" data-bs-target=".offCanvas__info" aria-controls="offCanvas__info" onClick={handleOffCanvas}>
+							<button className="navbar-menu p-4 text-center square-100 menu-tigger icon_80 icon-shape d-none d-md-flex border-0 bg-transparent" onClick={handleOffCanvas} aria-label="Open zijmenu">
 								<i className="ri-menu-2-line" />
-							</a>
+							</button>
 							<div className="container py-3 px-4">
 								<Link className="navbar-brand d-flex main-logo align-items-center" href="/index-2">
 									<img src="assets/imgs/home-page-2/template/favicon.svg" alt="Enrico Portfolio" />
@@ -44,18 +44,18 @@ export default function Header({ scroll, isMobileMenu, handleMobileMenu,isOffCan
 								</div>
 								<div className="navbar-social d-flex align-items-center pe-5 pe-lg-0 me-5 me-lg-0">
 									<div className="d-md-flex d-none gap-3">
-										<Link href="https://www.linkedin.com/in/enrico-carrasco-486046aa/" target="_blank" rel="noopener noreferrer">
+										<Link href="https://www.linkedin.com/in/enrico-carrasco-486046aa/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn profiel van Enrico Carrasco">
 											<i className="ri-linkedin-fill fs-18" />
 										</Link>
-										<Link href="https://www.instagram.com/enrico.r.carrasco/?hl=nl" target="_blank" rel="noopener noreferrer">
+										<Link href="https://www.instagram.com/enrico.r.carrasco/?hl=nl" target="_blank" rel="noopener noreferrer" aria-label="Instagram profiel van Enrico Carrasco">
 											<i className="ri-instagram-fill fs-18" />
 										</Link>
 									</div>
-									<div className="burger-icon burger-icon-white border rounded-3" onClick={handleMobileMenu}>
+									<button className="burger-icon burger-icon-white border rounded-3 bg-transparent" onClick={handleMobileMenu} aria-label="Open mobiel menu">
 										<span className="burger-icon-top" />
 										<span className="burger-icon-mid" />
 										<span className="burger-icon-bottom" />
-									</div>
+									</button>
 								</div>
 							</div>
 							<ThemeSwitch />

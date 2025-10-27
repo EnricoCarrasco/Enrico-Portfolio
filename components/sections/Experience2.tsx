@@ -47,7 +47,7 @@ export default function Experience2() {
 										</div>
 									</div>
 									<div className="col-lg-8 ps-lg-5 mt-5 mt-lg-0">
-										<h6 className="text-linear-4">Webontwikkelaar & AI Specialist</h6>
+										<h4 className="text-linear-4">Webontwikkelaar & AI Specialist</h4>
 										<ul className="mt-4">
 											<li className="text-300 mb-3">Oprichter van <span className="text-secondary-2">Enrico Carrasco Network</span>, gespecialiseerd in webontwikkeling en AI-oplossingen.</li>
 											<li className="text-300 mb-3">Ontwikkelde moderne websites en applicaties met Next.js, React, WordPress en Shopify voor diverse klanten.</li>

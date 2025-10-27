@@ -38,7 +38,7 @@ export default function RootLayout({
 	children: React.ReactNode
 }>) {
 	return (
-		<html lang="en" data-bs-theme="dark" className="enrico-portfolio">
+		<html lang="nl" data-bs-theme="dark" className="enrico-portfolio">
 			<body className={`${urbanist.variable} ${playfair_display.variable} ${dmMono.variable}`}>{children}</body>
 		</html>
 	)

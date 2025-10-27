@@ -6,7 +6,7 @@ export default function OffCanvas({ isOffCanvas, handleOffCanvas }: any) {
 			{/* offCanvas-menu */}
 			<div className={`offCanvas__info ${isOffCanvas ? 'active' : ''}`}>
 					<div className="offCanvas__close-icon menu-close" onClick={handleOffCanvas}>
-						<button><i className="ri-close-line" /></button>
+						<button aria-label="Sluit zijmenu"><i className="ri-close-line" /></button>
 					</div>
 					<div className="offCanvas__logo mb-5">
 						<h3 className="mb-0">Neem contact op</h3>
@@ -34,10 +34,10 @@ export default function OffCanvas({ isOffCanvas, handleOffCanvas }: any) {
 						<div className="contact-list">
 							<p className="text-400 fs-5 mb-2">Social Media</p>
 							<div className="d-md-flex d-none gap-3">
-								<Link href="https://www.linkedin.com/in/enrico-carrasco-486046aa/" target="_blank" rel="noopener noreferrer">
+								<Link href="https://www.linkedin.com/in/enrico-carrasco-486046aa/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn profiel van Enrico Carrasco">
 									<i className="ri-linkedin-fill fs-18" />
 								</Link>
-								<Link href="https://www.instagram.com/enrico.r.carrasco/?hl=nl" target="_blank" rel="noopener noreferrer">
+								<Link href="https://www.instagram.com/enrico.r.carrasco/?hl=nl" target="_blank" rel="noopener noreferrer" aria-label="Instagram profiel van Enrico Carrasco">
 									<i className="ri-instagram-fill fs-18" />
 								</Link>
 							</div>
