@@ -490,7 +490,8 @@ img {
   margin-bottom: 0;
   margin-right: auto;
   letter-spacing: 0.15em; /* Adjust as needed */
-  animation: typing 3.5s steps(40, end), blink-caret 0.75s step-end infinite;
+  animation: typing 3.5s steps(40, end) 0.5s both, blink-caret 0.75s step-end infinite 0.5s;
+  width: 0; /* Start with zero width */
 }
 
 /* The typing effect */

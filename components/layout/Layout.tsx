@@ -33,15 +33,17 @@ export default function Layout({ breadcrumbTitle, children }: LayoutProps) {
 	const [isOffCanvas, setOffCanvas] = useState<boolean>(false)
 	const handleOffCanvas = (): void => setOffCanvas(!isOffCanvas)
 
+	// Initialize WOW.js once on mount
 	useEffect(() => {
 		const WOW: any = require('wowjs');
 		(window as any).wow = new WOW.WOW({
 			live: false
 		});
-
-		// Initialize WOW.js
 		(window as any).wow.init()
+	}, [])
 
+	// Handle scroll separately
+	useEffect(() => {
 		const handleScroll = (): void => {
 			const scrollCheck: boolean = window.scrollY > 100
 			if (scrollCheck !== scroll) {

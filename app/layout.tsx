@@ -12,19 +12,19 @@ const urbanist = Urbanist({
 	weight: ['300', '400', '500', '600', '700'],
 	subsets: ['latin'],
 	variable: "--urbanist",
-	display: 'swap',
+	display: 'block',
 })
 const playfair_display = Playfair_Display({
 	weight: ['400', '500', '600', '700'],
 	subsets: ['latin'],
 	variable: "--playpair",
-	display: 'swap',
+	display: 'block',
 })
 const dmMono = DM_Mono({
 	weight: ['300', '400', '500'],
 	subsets: ['latin'],
 	variable: "--dmMono",
-	display: 'swap',
+	display: 'block',
 })
 
 export const metadata: Metadata = {
