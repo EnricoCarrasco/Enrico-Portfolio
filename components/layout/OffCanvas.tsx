@@ -13,18 +13,14 @@ export default function OffCanvas({ isOffCanvas, handleOffCanvas }: any) {
 					</div>
 					<div className="offCanvas__side-info mb-30">
 						<div className="contact-list mb-30">
-							<p className="fs-6 fw-medium text-200 mb-5">Ik ben altijd enthousiast om nieuwe projecten aan te nemen en samen te werken met innovatieve mensen.</p>
+							<p className="fs-6 fw-medium text-200 mb-5">Gepassioneerd over webontwikkeling en innovatieve technologieën. Altijd op zoek naar nieuwe uitdagingen.</p>
 							<div className="mb-3">
 								<span className="text-400 fs-5">Telefoon</span>
 								<p className="mb-0">+31650743968</p>
 							</div>
 							<div className="mb-3">
 								<span className="text-400 fs-5">E-mail</span>
-								<p className="mb-0">enricocarrasconetwork@gmail.com</p>
-							</div>
-							<div className="mb-3">
-								<span className="text-400 fs-5">Bedrijf</span>
-								<p className="mb-0">Enrico Carrasco Network</p>
+								<p className="mb-0">enricocarrasco1@gmail.com</p>
 							</div>
 							<div className="mb-3">
 								<span className="text-400 fs-5">Adres</span>

@@ -61,9 +61,9 @@ export default function Contact2() {
 								</div>
 								<div className="ps-3 h-100">
 									<span className="text-400 fs-6">E-mail</span>
-									<h5 className="mb-0">enricocarrasconetwork@gmail.com</h5>
+									<h5 className="mb-0">enricocarrasco1@gmail.com</h5>
 								</div>
-								<a href="mailto:enricocarrasconetwork@gmail.com" className="position-absolute top-0 start-0 w-100 h-100" aria-label="Mail naar enricocarrasconetwork@gmail.com" />
+								<a href="mailto:enricocarrasco1@gmail.com" className="position-absolute top-0 start-0 w-100 h-100" aria-label="Mail naar enricocarrasco1@gmail.com" />
 							</div>
 							<div className="d-flex align-items-center mb-3 position-relative d-inline-flex">
 								<div className="d-inline-block">

@@ -48,51 +48,6 @@ export default function Projects2() {
 												<div className="p-lg-5 p-md-4 p-3 border border-1 mt-5 bg-3">
 													<div className="row">
 														<div className="col-lg-5">
-															<img className="w-100" src="assets/imgs/home-page-2/projects/GrowInity.png" alt="GrowInity Website" />
-														</div>
-														<div className="col-lg-7 ps-lg-5 mt-5 mt-lg-0">
-															<h4 className="text-linear-4">
-																GrowInity <br />
-																Website Development Agency
-															</h4>
-															<p>Professioneel webbureau gespecialiseerd in WordPress en React/Next.js websites voor Nederlandse ondernemers</p>
-															<ul className="mt-4 list-unstyled">
-																<li className="text-secondary-2 mb-3 border-bottom pb-3">Project Info</li>
-																<li className="text-dark mb-3 border-bottom pb-3">
-																	<div className="d-flex justify-content-between">
-																		<p className="text-dark mb-0 text-end">Client</p>
-																		<p className="text-300 mb-0 text-end">GrowInity</p>
-																	</div>
-																</li>
-																<li className="text-dark mb-3 border-bottom pb-3">
-																	<div className="d-flex justify-content-between">
-																		<p className="text-dark mb-0 text-end">Category</p>
-																		<p className="text-300 mb-0 text-end">Web Development / Agency</p>
-																	</div>
-																</li>
-																<li className="text-dark mb-3 border-bottom pb-3">
-																	<div className="d-flex justify-content-between">
-																		<p className="text-dark mb-0 text-end">Technologies</p>
-																		<p className="text-300 mb-0 text-end">React, Next.js, TypeScript, WordPress</p>
-																	</div>
-																</li>
-															</ul>
-															<div className="d-flex flex-wrap align-items-center gap-3 mt-7">
-																<Link href="https://www.growinity.nl/" target="_blank" className="text-300 border-bottom border-1 px-2 pb-2 link-hover">
-																	<svg xmlns="http://www.w3.org/2000/svg" width={13} height={13} viewBox="0 0 13 13" fill="none">
-																		<path d="M11.0037 3.91421L2.39712 12.5208L0.98291 11.1066L9.5895 2.5H2.00373V0.5H13.0037V11.5H11.0037V3.91421Z" fill="#8F8F92" />
-																	</svg>
-																	Bezoek Website
-																</Link>
-															</div>
-														</div>
-													</div>
-												</div>
-											</SwiperSlide>
-											<SwiperSlide>
-												<div className="p-lg-5 p-md-4 p-3 border border-1 mt-5 bg-3">
-													<div className="row">
-														<div className="col-lg-5">
 															<img className="w-100" src="assets/imgs/home-page-2/projects/StudioJoshi.png" alt="Studio Joshi Website" />
 														</div>
 														<div className="col-lg-7 ps-lg-5 mt-5 mt-lg-0">

@@ -31,7 +31,7 @@ export default function Experience2() {
 											<Link href="#" className="technology border border-1 rounded-3 p-3">
 												<div className="d-flex align-items-center gap-2">
 													<div className="d-flex flex-column ms-2">
-														<h5 className="mb-1">Enrico Carrasco Network</h5>
+														<h5 className="mb-1">Web Developer</h5>
 														<span className="text-300">2017 - Present</span>
 													</div>
 												</div>
@@ -49,8 +49,8 @@ export default function Experience2() {
 									<div className="col-lg-8 ps-lg-5 mt-5 mt-lg-0">
 										<h4 className="text-linear-4">Webontwikkelaar & AI Specialist</h4>
 										<ul className="mt-4">
-											<li className="text-300 mb-3">Oprichter van <span className="text-secondary-2">Enrico Carrasco Network</span>, gespecialiseerd in webontwikkeling en AI-oplossingen.</li>
-											<li className="text-300 mb-3">Ontwikkelde moderne websites en applicaties met Next.js, React, WordPress en Shopify voor diverse klanten.</li>
+											<li className="text-300 mb-3">Gespecialiseerd in <span className="text-secondary-2">webontwikkeling en AI-oplossingen</span> met focus op moderne frameworks en innovatieve technologieën.</li>
+											<li className="text-300 mb-3">Ontwikkelde diverse websites en applicaties met Next.js, React, WordPress en Shopify.</li>
 											<li className="text-300 mb-3">Gebruikt AI-tools zoals Claude Code, Codex en Midjourney om de ontwikkelworkflow te verbeteren en innovatieve oplossingen te creëren.</li>
 											<li className="text-300 mb-3">Afgestudeerd in <span className="text-secondary-2">Applicatie Ontwikkeling</span> bij ROC Leiden (2014-2017).</li>
 										</ul>
