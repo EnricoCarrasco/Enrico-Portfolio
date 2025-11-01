@@ -13,27 +13,27 @@ export default function Menu() {
 					</Link>
 				</li>
 				<li className="nav-item">
-					<Link href="/services" className={pathname === "/services" ? "nav-link active" : "nav-link"}>
+					<Link href="#services" className="nav-link">
 						Diensten
 					</Link>
 				</li>
 				<li className="nav-item">
-					<Link href="/work" className={pathname === "/work" ? "nav-link active" : "nav-link"}>
+					<Link href="#portfolio" className="nav-link">
 						Portfolio
 					</Link>
 				</li>
 				<li className="nav-item">
-					<Link href="/pricing" className={pathname === "/pricing" ? "nav-link active" : "nav-link"}>
-						Prijzen
+					<Link href="#skills" className="nav-link">
+						Vaardigheden
 					</Link>
 				</li>
 				<li className="nav-item">
-					<Link href="/blog-list" className={pathname === "/blog-list" ? "nav-link active" : "nav-link"}>
+					<Link href="#blog" className="nav-link">
 						Blog
 					</Link>
 				</li>
 				<li className="nav-item">
-					<Link href="/#contact" className={pathname === "#contact" ? "nav-link active" : "nav-link"}>
+					<Link href="#contact" className="nav-link">
 						Contact
 					</Link>
 				</li>

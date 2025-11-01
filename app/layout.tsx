@@ -39,7 +39,9 @@ export default function RootLayout({
 }>) {
 	return (
 		<html lang="nl" data-bs-theme="dark" className="enrico-portfolio">
-			<body className={`${urbanist.variable} ${playfair_display.variable} ${dmMono.variable}`}>{children}</body>
+			<body className={`${urbanist.variable} ${playfair_display.variable} ${dmMono.variable}`} suppressHydrationWarning>
+				{children}
+			</body>
 		</html>
 	)
 }
