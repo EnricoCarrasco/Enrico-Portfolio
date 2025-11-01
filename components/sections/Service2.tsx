@@ -41,7 +41,7 @@ export default function Service2() {
 													<path d="M3 2.9918C3 2.44405 3.44495 2 3.9934 2H20.0066C20.5552 2 21 2.45531 21 2.9918V21.0082C21 21.556 20.5551 22 20.0066 22H3.9934C3.44476 22 3 21.5447 3 21.0082V2.9918ZM19 11V4H5V11H19ZM19 13H5V20H19V13ZM9 6H15V8H9V6ZM9 15H15V17H9V15Z" fill="#1F1F24" />
 												</svg>
 												<h4 className="my-3 fw-medium">Database Beheer</h4>
-												<p className="fs-7 text-300 fw-regular">Ontwerpen en beheren van databases met SQL en NoSQL technologieën zoals <span className="text-secondary-2">MySQL</span>, <span className="text-secondary-2">PostgreSQL</span>, en <span className="text-secondary-2">MongoDB</span>.</p>
+												<p className="fs-7 text-300 fw-regular">Ervaring met databases zoals <span className="text-secondary-2">Supabase</span> en <span className="text-secondary-2">MySQL</span>, voor het opzetten en beheren van data in moderne webapplicaties.</p>
 											</div>
 										</div>
 										<div className="col-lg-4 col-md-6">
@@ -50,7 +50,7 @@ export default function Service2() {
 													<path d="M12 2C15.866 2 19 5.13401 19 9C19 9.11351 18.9973 9.22639 18.992 9.33857C21.3265 10.16 23 12.3846 23 15C23 18.3137 20.3137 21 17 21H7C3.68629 21 1 18.3137 1 15C1 12.3846 2.67346 10.16 5.00804 9.33857C5.0027 9.22639 5 9.11351 5 9C5 5.13401 8.13401 2 12 2ZM12 4C9.23858 4 7 6.23858 7 9C7 9.08147 7.00193 9.16263 7.00578 9.24344L7.07662 10.7309L5.67183 11.2252C4.0844 11.7837 3 13.2889 3 15C3 17.2091 4.79086 19 7 19H17C19.2091 19 21 17.2091 21 15C21 12.79 19.21 11 17 11C15.233 11 13.7337 12.1457 13.2042 13.7347L11.3064 13.1021C12.1005 10.7185 14.35 9 17 9C17 6.23858 14.7614 4 12 4Z" fill="#1F1F24" />
 												</svg>
 												<h4 className="my-3 fw-medium">API Ontwikkeling</h4>
-												<p className="fs-7 text-300 fw-regular">Creëren en integreren van <span className="text-secondary-2">RESTful APIs</span> voor soepele communicatie tussen front-end en back-end systemen.</p>
+												<p className="fs-7 text-300 fw-regular">Ruime ervaring met <span className="text-secondary-2">AI-assisted development</span> en moderne ontwikkelmethoden voor snelle en efficiënte applicatie bouw.</p>
 											</div>
 										</div>
 										<div className="col-lg-4 col-md-6">

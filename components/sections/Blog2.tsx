@@ -18,62 +18,24 @@ export default function Blog2() {
 						<h3>Web Apps & API's</h3>
 					<p className="text-300 mt-2">Functionele applicaties met API integraties en geavanceerde features</p>
 					</div>
-					<div className="row mt-8">
+					<div className="row mt-8 justify-content-center">
 						{/*prettier-ignore*/}
 						<div className="col-lg-4">
 							<div className="blog-card rounded-top-2 mb-lg-3 mb-md-5 mb-3">
 								<div className="blog-card__image position-relative">
 									<div className="zoom-img rounded-2 overflow-hidden">
-										<img className="w-100" src="assets/imgs/home-page-2/blog/img-1.png" alt="Optimize Your Web Application for Speed" />
-										<Link className="position-absolute bottom-0 start-0 m-3 text-white-keep border border-white fw-medium px-3 py-1 fs-7 bg-white rounded-2" href="#">CEO</Link>
-										<Link href="#" className="blog-card__link position-absolute top-50 start-50 translate-middle icon-md icon-shape rounded-circle" aria-label="Lees meer over Optimize Your Web Application for Speed">
+										<img className="w-100" src="assets/imgs/home-page-2/projects/auralomera.png" alt="Aura Lomera - AI Afbeeldingsbewerking" />
+										<Link className="position-absolute bottom-0 start-0 m-3 text-dark border border-white fw-medium px-3 py-1 fs-7 bg-white rounded-2" href="https://auralomera.com/" target="_blank" rel="noopener noreferrer">Website</Link>
+										<Link href="https://auralomera.com/" target="_blank" rel="noopener noreferrer" className="blog-card__link position-absolute top-50 start-50 translate-middle icon-md icon-shape rounded-circle" aria-label="Bezoek Aura Lomera">
 											<i className="ri-arrow-right-up-line" />
 										</Link>
 									</div>
 								</div>
 								<div className="blog-card__content position-relative text-center mt-4">
-									<span className="blog-card__date fs-7">March 28, 2023 • 3 min read</span>
-									<h4 className="blog-card__title mt-2">Optimize Your Web Application for Speed</h4>
-									<p className="blog-card__description fs-7">Stay ahead of the curve with these emerging trends in UI/UX design.</p>
-									<Link href="#" className="link-overlay position-absolute top-0 start-0 w-100 h-100" aria-label="Lees artikel: Optimize Your Web Application for Speed" />
-								</div>
-							</div>
-						</div>
-						<div className="col-lg-4">
-							<div className="blog-card rounded-top-2 mb-lg-3 mb-md-5 mb-3">
-								<div className="blog-card__image position-relative">
-									<div className="zoom-img rounded-2 overflow-hidden">
-										<img className="w-100" src="assets/imgs/home-page-2/blog/img-2.png" alt="Best Practices for Secure Web Development" />
-										<Link className="position-absolute bottom-0 start-0 m-3 text-white-keep border border-white fw-medium px-3 py-1 fs-7 bg-white rounded-2" href="#">Development</Link>
-										<Link href="#" className="blog-card__link position-absolute top-50 start-50 translate-middle icon-md icon-shape rounded-circle" aria-label="Lees meer over Best Practices for Secure Web Development">
-											<i className="ri-arrow-right-up-line" />
-										</Link>
-									</div>
-								</div>
-								<div className="blog-card__content position-relative text-center mt-4">
-									<span className="blog-card__date fs-7">March 28, 2023 • 3 min read</span>
-									<h4 className="blog-card__title mt-2">Best Practices for Secure Web Development</h4>
-									<p className="blog-card__description fs-7">Stay ahead of the curve with these emerging trends in UI/UX design.</p>
-									<Link href="#" className="link-overlay position-absolute top-0 start-0 w-100 h-100" aria-label="Lees artikel: Best Practices for Secure Web Development" />
-								</div>
-							</div>
-						</div>
-						<div className="col-lg-4">
-							<div className="blog-card rounded-top-2 mb-lg-3 mb-md-5 mb-3">
-								<div className="blog-card__image position-relative">
-									<div className="zoom-img rounded-2 overflow-hidden">
-										<img className="w-100" src="assets/imgs/home-page-2/blog/img-3.png" alt="10 JavaScript Frameworks for Web Development in 2024" />
-										<Link className="position-absolute bottom-0 start-0 m-3 text-white-keep border border-white fw-medium px-3 py-1 fs-7 bg-white rounded-2" href="#">Trending</Link>
-										<Link href="#" className="blog-card__link position-absolute top-50 start-50 translate-middle icon-md icon-shape rounded-circle" aria-label="Lees meer over 10 JavaScript Frameworks for Web Development in 2024">
-											<i className="ri-arrow-right-up-line" />
-										</Link>
-									</div>
-								</div>
-								<div className="blog-card__content position-relative text-center mt-4">
-									<span className="blog-card__date fs-7">March 28, 2023 • 3 min read</span>
-									<h4 className="blog-card__title mt-2">10 JavaScript Frameworks for Web Development in 2024</h4>
-									<p className="blog-card__description fs-7">Stay ahead of the curve with these emerging trends in UI/UX design.</p>
-									<Link href="#" className="link-overlay position-absolute top-0 start-0 w-100 h-100" aria-label="Lees artikel: 10 JavaScript Frameworks for Web Development in 2024" />
+									<span className="blog-card__date fs-7">AI • Gemini API</span>
+									<h4 className="blog-card__title mt-2">Aura Lomera</h4>
+									<p className="blog-card__description fs-7">Een programma met Gemini API voor het bewerken van afbeeldingen</p>
+									<Link href="https://auralomera.com/" target="_blank" rel="noopener noreferrer" className="link-overlay position-absolute top-0 start-0 w-100 h-100" aria-label="Bezoek Aura Lomera website" />
 								</div>
 							</div>
 						</div>
