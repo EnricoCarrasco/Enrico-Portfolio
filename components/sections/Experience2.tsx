@@ -21,8 +21,8 @@ export default function Experience2() {
 									<span className="text-300">jaar </span>
 									ervaring
 									<span className="text-300">
-										met <br />
-										AI-tools & websites bouwen
+										in <br />
+										webontwikkeling
 									</span>
 								</h3>
 								<div className="row mt-5">
@@ -31,7 +31,7 @@ export default function Experience2() {
 											<Link href="#" className="technology border border-1 rounded-3 p-3">
 												<div className="d-flex align-items-center gap-2">
 													<div className="d-flex flex-column ms-2">
-														<h5 className="mb-1">AI-Assisted Web Developer</h5>
+														<h5 className="mb-1">Web Developer</h5>
 														<span className="text-300">2017 - Present</span>
 													</div>
 												</div>
@@ -47,12 +47,12 @@ export default function Experience2() {
 										</div>
 									</div>
 									<div className="col-lg-8 ps-lg-5 mt-5 mt-lg-0">
-										<h4 className="text-linear-4">AI-Assisted Website Bouwer</h4>
+										<h4 className="text-linear-4">Full-Stack Web Developer</h4>
 										<ul className="mt-4">
-											<li className="text-300 mb-3"><span className="text-secondary-2">Expert in AI-tools</span> zoals Claude Code, Cursor, Codex en Midjourney voor het bouwen van websites en applicaties.</li>
-											<li className="text-300 mb-3">Basiskennis van webontwikkeling (HTML, CSS, JavaScript, PHP) + <span className="text-secondary-2">AI-ondersteuning</span> voor complexe functionaliteiten.</li>
-											<li className="text-300 mb-3">Realiseerde 20+ websites met Next.js, React, WordPress en Shopify - elk project op maat gemaakt.</li>
-											<li className="text-300 mb-3">Kan elke gewenste functionaliteit implementeren en leer snel nieuwe technologieën wanneer het project dit vereist.</li>
+											<li className="text-300 mb-3">Gespecialiseerd in het bouwen van <span className="text-secondary-2">WordPress</span> en <span className="text-secondary-2">Shopify</span> websites, en moderne <span className="text-secondary-2">React/Next.js applicaties</span>.</li>
+											<li className="text-300 mb-3">Realiseerde 20+ professionele websites - van eenvoudige templates tot complexe custom applicaties.</li>
+											<li className="text-300 mb-3">Gebruik AI-tools zoals Claude Code en Cursor vooral bij React/Next.js projecten voor snellere ontwikkeling.</li>
+											<li className="text-300 mb-3">Kan elke gewenste functionaliteit implementeren - API integraties, databases, betalingen, etc.</li>
 											<li className="text-300 mb-3">Afgestudeerd in <span className="text-secondary-2">Applicatie Ontwikkeling</span> bij ROC Leiden (2014-2017).</li>
 										</ul>
 										<div className="d-flex flex-wrap align-items-center gap-3 mt-7">

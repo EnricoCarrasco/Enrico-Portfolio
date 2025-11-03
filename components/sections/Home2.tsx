@@ -30,8 +30,8 @@ export default function Home2() {
 											</div>
 											&lt;/span&gt;
 										</div>
-										<h1 className="fs-50 my-3">Website Bouwer met <span className="text-linear-4">AI &amp; Claude Code</span><span className="flicker">_</span></h1>
-										<p className="mb-6 text-secondary-2">&lt;p&gt;<span className="text-dark">Met ruime ervaring in AI-tools en basiskennis van webontwikkeling, realiseer ik</span> <span className="text-secondary-2">elke website of applicatie</span> <span className="text-dark">die je nodig hebt. Van</span> <span className="text-secondary-2">WordPress</span> <span className="text-dark">en</span> <span className="text-secondary-2">Shopify</span> <span className="text-dark">tot</span> <span className="text-secondary-2">Next.js/React</span> <span className="text-dark">met AI-ondersteuning. Meer coding kennis nodig? Die leer ik graag bij!</span>&lt;/p&gt;</p>
+										<h1 className="fs-50 my-3">Web Developer die <span className="text-linear-4">elke website realiseert</span><span className="flicker">_</span></h1>
+										<p className="mb-6 text-secondary-2">&lt;p&gt;<span className="text-dark">Ik bouw professionele websites met</span> <span className="text-secondary-2">WordPress</span>, <span className="text-secondary-2">Shopify</span> <span className="text-dark">en moderne</span> <span className="text-secondary-2">React/Next.js applicaties</span> <span className="text-dark">(met AI-ondersteuning). Elke gewenste functionaliteit is haalbaar - ik zorg dat het werkt!</span>&lt;/p&gt;</p>
 										<div className="row">
 											<div className="col-7">
 												{/* Carausel Scroll */}

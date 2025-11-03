@@ -83,20 +83,20 @@ export default function Skills2() {
 														<ul className="ps-3 d-flex flex-column justify-content-between h-100 position-relative">
 															<li className="mb-3">
 																<div className="d-flex flex-column flex-md-row gap-2">
-																	<p className="text-dark text-nowrap mb-0">AI Tools (Expert):</p>
-																	<span className="text-300">Claude Code, Cursor, Codex, Midjourney, RunwayML, OpenAI APIs</span>
+																	<p className="text-dark text-nowrap mb-0">CMS Platforms:</p>
+																	<span className="text-300">WordPress, Shopify (volledig zelfstandig)</span>
 																</div>
 															</li>
 															<li className="mb-3">
 																<div className="d-flex flex-column flex-md-row gap-2">
-																	<p className="text-dark text-nowrap mb-0">Web Development (Basis + AI):</p>
-																	<span className="text-300">Next.js, React, WordPress, Shopify, HTML, CSS, Javascript, PHP</span>
+																	<p className="text-dark text-nowrap mb-0">Modern Development:</p>
+																	<span className="text-300">Next.js, React (met AI-tools), HTML, CSS, Javascript, PHP</span>
 																</div>
 															</li>
 															<li className="mb-3">
 																<div className="d-flex flex-column flex-md-row gap-2">
-																	<p className="text-dark text-nowrap mb-0">Leervermogen:</p>
-																	<span className="text-300">Snel nieuwe code en technologieën leren wanneer het project dit vereist</span>
+																	<p className="text-dark text-nowrap mb-0">AI Tools:</p>
+																	<span className="text-300">Claude Code, Cursor, Codex, Midjourney, OpenAI APIs</span>
 																</div>
 															</li>
 															<li className="mb-3">
