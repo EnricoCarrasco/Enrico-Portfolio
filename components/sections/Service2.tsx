@@ -18,9 +18,9 @@ export default function Service2() {
 										<span className="text-linear-4 d-flex align-items-center"> Vaardigheden </span>
 									</div>
 									<h3>
-										Van idee naar werkende applicatie {''}
+										Van idee naar werkende website {''}
 										<span className="text-300">
-											 met React, Next.js  & API integraties
+											 met AI-ondersteuning & moderne tools
 										</span>
 									</h3>
 								</div>
@@ -32,7 +32,7 @@ export default function Service2() {
 													<path d="M21 3C21.5523 3 22 3.44772 22 4V20C22 20.5523 21.5523 21 21 21H3C2.44772 21 2 20.5523 2 20V4C2 3.44772 2.44772 3 3 3H21ZM20 11H4V19H20V11ZM20 5H4V9H20V5ZM11 6V8H9V6H11ZM7 6V8H5V6H7Z" fill="#1F1F24" />
 												</svg>
 												<h4 className="my-3 fw-medium">Web &amp; App Ontwikkeling</h4>
-												<p className="fs-7 text-300 fw-regular">Het creëren van visueel aantrekkelijke en gebruiksvriendelijke interfaces met <span className="text-secondary-2">HTML</span>, <span className="text-secondary-2">CSS</span>, <span className="text-secondary-2">JavaScript</span>, en moderne platforms zoals <span className="text-secondary-2">Shopify</span>, <span className="text-secondary-2">WordPress</span>, <span className="text-secondary-2">Next.js/React (AI)</span>, en web apps.</p>
+												<p className="fs-7 text-300 fw-regular">Het bouwen van professionele websites en applicaties met <span className="text-secondary-2">AI-tools</span> zoals <span className="text-secondary-2">Claude Code</span>. Van <span className="text-secondary-2">WordPress</span> en <span className="text-secondary-2">Shopify</span> tot moderne <span className="text-secondary-2">Next.js/React</span> applicaties. Elk project op maat met de nieuwste technologieën.</p>
 											</div>
 										</div>
 										<div className="col-lg-4 col-md-6">
@@ -49,8 +49,8 @@ export default function Service2() {
 												<svg xmlns="http://www.w3.org/2000/svg" width={24} height={24} viewBox="0 0 24 24" fill="none">
 													<path d="M12 2C15.866 2 19 5.13401 19 9C19 9.11351 18.9973 9.22639 18.992 9.33857C21.3265 10.16 23 12.3846 23 15C23 18.3137 20.3137 21 17 21H7C3.68629 21 1 18.3137 1 15C1 12.3846 2.67346 10.16 5.00804 9.33857C5.0027 9.22639 5 9.11351 5 9C5 5.13401 8.13401 2 12 2ZM12 4C9.23858 4 7 6.23858 7 9C7 9.08147 7.00193 9.16263 7.00578 9.24344L7.07662 10.7309L5.67183 11.2252C4.0844 11.7837 3 13.2889 3 15C3 17.2091 4.79086 19 7 19H17C19.2091 19 21 17.2091 21 15C21 12.79 19.21 11 17 11C15.233 11 13.7337 12.1457 13.2042 13.7347L11.3064 13.1021C12.1005 10.7185 14.35 9 17 9C17 6.23858 14.7614 4 12 4Z" fill="#1F1F24" />
 												</svg>
-												<h4 className="my-3 fw-medium">API Ontwikkeling</h4>
-												<p className="fs-7 text-300 fw-regular">Ruime ervaring met <span className="text-secondary-2">AI-assisted development</span> en moderne ontwikkelmethoden voor snelle en efficiënte applicatie bouw.</p>
+												<h4 className="my-3 fw-medium">AI-Ondersteunde Ontwikkeling</h4>
+												<p className="fs-7 text-300 fw-regular">Specialisatie in <span className="text-secondary-2">AI-tools</span> en <span className="text-secondary-2">moderne ontwikkelmethoden</span>. Elke functionaliteit is realiseerbaar - API integraties, databases, en complexe features. Leren wat nodig is voor het project.</p>
 											</div>
 										</div>
 										<div className="col-lg-4 col-md-6">
@@ -83,7 +83,7 @@ export default function Service2() {
 									</div>
 									<div className="text-center pt-60">
 										<p className="text-300">
-											Gepassioneerd over <span className="text-dark">webontwikkeling</span> en altijd op zoek naar nieuwe uitdagingen. <br />
+											Gepassioneerd over <span className="text-dark">AI-tools en websites bouwen</span>. Elke website of functionaliteit is haalbaar. <br />
 											Interesse om samen te werken? <Link href="#contact" className="text-primary-2">Neem contact op!</Link>
 										</p>
 									</div>
