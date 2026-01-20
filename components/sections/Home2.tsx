@@ -57,7 +57,7 @@ export default function Home2() {
 											</div>
 											
 										</div>
-										<Link href="/assets/cv-enrico-carrasco.png" className="btn me-2 text-300 ps-0 mt-4" download="CV-Enrico-Carrasco.png">
+										<Link href="/assets/CV-Enrico-Carrasco.pdf" className="btn me-2 text-300 ps-0 mt-4" download="CV-Enrico-Carrasco.pdf">
 											<i className="ri-download-line text-primary-2" />
 											[ Download mijn CV ]
 										</Link>
