@@ -58,6 +58,96 @@ export default function Projects2() {
 								<h3>Recent Gemaakte Websites</h3>
 								<p className="text-300">Mijn recent ontwikkelde websites - van concept tot realisatie</p>
 
+								{/* Eigen SaaS, Apps & AI */}
+								<div className="mt-5">
+									<div className="d-flex align-items-center mb-3">
+										<h4 className="text-linear-4 mb-0">Eigen SaaS, Apps en AI</h4>
+										<span className="ms-3 badge bg-primary-2 text-dark">Gebouwd met AI · Claude Code en Codex</span>
+									</div>
+									<p className="text-300 mb-4">Eigen producten en apps, van link-in-bio SaaS tot een iOS-toetsenbord in de App Store.</p>
+									<div className="row">
+
+										<div className="col-lg-4 col-md-6 mb-4">
+											<div className="p-4 border border-1 bg-3 h-100 d-flex flex-column">
+												<img className="w-100 mb-3" src="assets/imgs/home-page-2/projects/viopage.jpg" alt="Viopage" />
+												<span className="badge bg-primary-2 text-dark align-self-start mb-2">SaaS</span>
+												<h4 className="text-linear-4 mb-2">Viopage</h4>
+												<p className="text-300">Link-in-bio SaaS voor creators: thema&apos;s, analytics en custom domains.</p>
+												<Link href="https://viopage.com" target="_blank" className="text-300 border-bottom border-1 px-2 pb-2 link-hover mt-auto align-self-start">
+													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={13} viewBox="0 0 13 13" fill="none"><path d="M11.0037 3.91421L2.39712 12.5208L0.98291 11.1066L9.5895 2.5H2.00373V0.5H13.0037V11.5H11.0037V3.91421Z" fill="#8F8F92" /></svg>
+													Bezoek
+												</Link>
+											</div>
+										</div>
+
+										<div className="col-lg-4 col-md-6 mb-4">
+											<div className="p-4 border border-1 bg-3 h-100 d-flex flex-column">
+												<img className="w-100 mb-3" src="assets/imgs/home-page-2/projects/braxiq.jpg" alt="Braxiq" />
+												<span className="badge bg-primary-2 text-dark align-self-start mb-2">SaaS</span>
+												<h4 className="text-linear-4 mb-2">Braxiq</h4>
+												<p className="text-300">Online IQ-assessmentplatform met certificaat, rapport en abonnementen.</p>
+												<Link href="https://braxiq.com" target="_blank" className="text-300 border-bottom border-1 px-2 pb-2 link-hover mt-auto align-self-start">
+													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={13} viewBox="0 0 13 13" fill="none"><path d="M11.0037 3.91421L2.39712 12.5208L0.98291 11.1066L9.5895 2.5H2.00373V0.5H13.0037V11.5H11.0037V3.91421Z" fill="#8F8F92" /></svg>
+													Bezoek
+												</Link>
+											</div>
+										</div>
+
+										<div className="col-lg-4 col-md-6 mb-4">
+											<div className="p-4 border border-1 bg-3 h-100 d-flex flex-column">
+												<img className="w-100 mb-3" src="assets/imgs/home-page-2/projects/swaytype.jpg" alt="Swaytype" />
+												<span className="badge bg-primary-2 text-dark align-self-start mb-2">iOS-app · App Store</span>
+												<h4 className="text-linear-4 mb-2">Swaytype</h4>
+												<p className="text-300">AI-toetsenbord voor iPhone: herschrijft toon en vertaalt 40+ talen. In de App Store.</p>
+												<Link href="https://swaytype.com" target="_blank" className="text-300 border-bottom border-1 px-2 pb-2 link-hover mt-auto align-self-start">
+													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={13} viewBox="0 0 13 13" fill="none"><path d="M11.0037 3.91421L2.39712 12.5208L0.98291 11.1066L9.5895 2.5H2.00373V0.5H13.0037V11.5H11.0037V3.91421Z" fill="#8F8F92" /></svg>
+													Bezoek
+												</Link>
+											</div>
+										</div>
+
+										<div className="col-lg-4 col-md-6 mb-4">
+											<div className="p-4 border border-1 bg-3 h-100 d-flex flex-column">
+												<img className="w-100 mb-3" src="assets/imgs/home-page-2/projects/auralomera.jpg" alt="Auralomera" />
+												<span className="badge bg-primary-2 text-dark align-self-start mb-2">AI</span>
+												<h4 className="text-linear-4 mb-2">Auralomera</h4>
+												<p className="text-300">AI-platform dat virale UGC-productvideo&apos;s maakt uit één productfoto.</p>
+												<Link href="https://auralomera.com" target="_blank" className="text-300 border-bottom border-1 px-2 pb-2 link-hover mt-auto align-self-start">
+													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={13} viewBox="0 0 13 13" fill="none"><path d="M11.0037 3.91421L2.39712 12.5208L0.98291 11.1066L9.5895 2.5H2.00373V0.5H13.0037V11.5H11.0037V3.91421Z" fill="#8F8F92" /></svg>
+													Bezoek
+												</Link>
+											</div>
+										</div>
+
+										<div className="col-lg-4 col-md-6 mb-4">
+											<div className="p-4 border border-1 bg-3 h-100 d-flex flex-column">
+												<img className="w-100 mb-3" src="assets/imgs/home-page-2/projects/cyborg.jpg" alt="Cyborg Hero" />
+												<span className="badge bg-primary-2 text-dark align-self-start mb-2">Showcase</span>
+												<h4 className="text-linear-4 mb-2">Cyborg Hero</h4>
+												<p className="text-300">Cinematische scroll-experience, volledig gebouwd met AI.</p>
+												<Link href="https://cyborg-hero.vercel.app" target="_blank" className="text-300 border-bottom border-1 px-2 pb-2 link-hover mt-auto align-self-start">
+													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={13} viewBox="0 0 13 13" fill="none"><path d="M11.0037 3.91421L2.39712 12.5208L0.98291 11.1066L9.5895 2.5H2.00373V0.5H13.0037V11.5H11.0037V3.91421Z" fill="#8F8F92" /></svg>
+													Bezoek
+												</Link>
+											</div>
+										</div>
+
+										<div className="col-lg-4 col-md-6 mb-4">
+											<div className="p-4 border border-1 bg-3 h-100 d-flex flex-column">
+												<img className="w-100 mb-3" src="assets/imgs/home-page-2/projects/fitfeelings.jpg" alt="Fit Feelings" />
+												<span className="badge bg-primary-2 text-dark align-self-start mb-2">Klant</span>
+												<h4 className="text-linear-4 mb-2">Fit Feelings</h4>
+												<p className="text-300">Cinematische website voor sportschool Fit Feelings in Boskoop.</p>
+												<Link href="https://fitfeelings.nl" target="_blank" className="text-300 border-bottom border-1 px-2 pb-2 link-hover mt-auto align-self-start">
+													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={13} viewBox="0 0 13 13" fill="none"><path d="M11.0037 3.91421L2.39712 12.5208L0.98291 11.1066L9.5895 2.5H2.00373V0.5H13.0037V11.5H11.0037V3.91421Z" fill="#8F8F92" /></svg>
+													Bezoek
+												</Link>
+											</div>
+										</div>
+
+									</div>
+								</div>
+
 								{/* React/Next.js Projects Section */}
 								<div className="mt-5">
 									<div className="d-flex align-items-center mb-3">

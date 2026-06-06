@@ -15,7 +15,7 @@ export default function Static2() {
 										<div className="content mx-auto">
 											<i className="ri-shape-line text-primary-2" />
 											<h2 className="text-300 my-0 fs-50">
-												<CountUp className="odometer text-dark fw-medium" enableScrollSpy={true} end={5} />
+												<CountUp className="odometer text-dark fw-medium" enableScrollSpy={true} end={8} />
 												<span className="fs-50 text-300 mb-0">+</span>
 											</h2>
 											<p className="fs-6 mb-0 text-dark">Jaar Ervaring</p>
@@ -27,10 +27,10 @@ export default function Static2() {
 										<div className="content mx-auto">
 											<i className="ri-computer-line text-primary-2" />
 											<h2 className="text-300 my-0 fs-50">
-												<CountUp className="odometer text-dark fw-medium" enableScrollSpy={true} end={20} />
+												<CountUp className="odometer text-dark fw-medium" enableScrollSpy={true} end={30} />
 												<span className="fs-50 text-300 mb-0">+</span>
 											</h2>
-											<p className="fs-6 mb-0 text-dark">Projecten Voltooid</p>
+											<p className="fs-6 mb-0 text-dark">Live Projecten</p>
 										</div>
 									</div>
 								</div>
@@ -39,14 +39,14 @@ export default function Static2() {
 										<div className="content mx-auto">
 											<i className="ri-service-line text-primary-2" />
 											<h2 className="text-300 my-0 fs-50">
-												<CountUp className="odometer text-dark fw-medium" enableScrollSpy={true} end={15} />
+												<CountUp className="odometer text-dark fw-medium" enableScrollSpy={true} end={4} />
 												<span className="fs-50 text-300 mb-0">+</span>
 											</h2>
-											<p className="fs-6 mb-0 text-dark">Technologieën</p>
+											<p className="fs-6 mb-0 text-dark">Eigen SaaS en Apps</p>
 										</div>
 									</div>
 								</div>
-								
+
 							</div>
 						</div>
 						<div className="background position-absolute top-0 start-0 w-100 h-100 filter-invert" data-background="assets/imgs/home-page-2/static/bg.png" />
