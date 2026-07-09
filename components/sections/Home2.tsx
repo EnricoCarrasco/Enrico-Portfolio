@@ -30,8 +30,8 @@ export default function Home2() {
 											</div>
 											&lt;/span&gt;
 										</div>
-										<h1 className="fs-50 my-3">Ik bouw <span className="text-linear-4">websites én apps</span> met AI<span className="flicker">_</span></h1>
-										<p className="mb-6 text-secondary-2">&lt;p&gt;<span className="text-dark">Freelance developer (ZZP) in Nederland. Ik bouw snelle websites, web-apps en eigen SaaS-producten met AI-tools zoals</span> <span className="text-secondary-2">Claude Code</span> <span className="text-dark">en</span> <span className="text-secondary-2">Codex</span><span className="text-dark">. Van klantwebsite tot</span> <span className="text-secondary-2">iOS-app in de App Store</span><span className="text-dark">.</span>&lt;/p&gt;</p>
+										<h1 className="fs-50 my-3">Ik bouw <span className="text-linear-4">AI-producten, agents en workflows</span><span className="flicker">_</span></h1>
+										<p className="mb-6 text-secondary-2">&lt;p&gt;<span className="text-dark">Freelance AI-developer (ZZP) in Nederland. Ik bouw SaaS-producten, agents en volledig geautomatiseerde workflows met</span> <span className="text-secondary-2">Claude Code</span> <span className="text-dark">en</span> <span className="text-secondary-2">Codex</span><span className="text-dark">, en integreer de Anthropic- en OpenAI-API&apos;s in productie. Van</span> <span className="text-secondary-2">HuurVos.nl</span> <span className="text-dark">tot twee</span> <span className="text-secondary-2">iOS-apps in de App Store</span><span className="text-dark">.</span>&lt;/p&gt;</p>
 										<div className="row">
 											<div className="col-7">
 												{/* Carausel Scroll */}

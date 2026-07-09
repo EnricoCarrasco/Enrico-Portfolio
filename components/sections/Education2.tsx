@@ -23,7 +23,7 @@ export default function Education2() {
 													<p className="text-300 text-nowrap fw-regular mb-0">2017-Heden:</p>
 													<div>
 														<span className="text-primary-2">Enrico Carrasco Network</span>
-														<p className="text-dark">Full Stack Webontwikkeling</p>
+														<p className="text-dark">AI-first development: eigen SaaS, apps en workflows</p>
 													</div>
 												</div>
 											</li>
@@ -73,10 +73,10 @@ export default function Education2() {
 										</li>
 										<li className="position-relative z-1 mb-3">
 											<div className="d-flex gap-2">
-												<p className="text-300 text-nowrap fw-regular mb-0">2020-Heden:</p>
+												<p className="text-300 text-nowrap fw-regular mb-0">2023-Heden:</p>
 												<div>
-													<span className="text-primary-2">Webontwikkelingstechnologieën</span>
-													<p className="text-dark">Vaardig in HTML, CSS, JavaScript en PHP ontwikkeling.</p>
+													<span className="text-primary-2">LLM-integraties &amp; agents</span>
+													<p className="text-dark">Anthropic- en OpenAI-API&apos;s, MCP, prompt- en contextengineering in productie.</p>
 												</div>
 											</div>
 										</li>

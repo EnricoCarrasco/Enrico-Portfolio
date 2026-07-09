@@ -28,8 +28,8 @@ const dmMono = DM_Mono({
 })
 
 export const metadata: Metadata = {
-	title: "Enrico Carrasco - Portfolio",
-	description: "Enrico Carrasco - Webontwikkelaar met focus op AI & moderne tools",
+	title: "Enrico Carrasco - AI-developer",
+	description: "Enrico Carrasco - AI-developer (ZZP): LLM-integraties, agents en geautomatiseerde workflows. 5 eigen SaaS-producten en 2 iOS-apps live.",
 }
 
 export default function RootLayout({

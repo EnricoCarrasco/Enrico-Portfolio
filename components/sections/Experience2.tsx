@@ -17,12 +17,12 @@ export default function Experience2() {
 									<span className="text-linear-4 d-flex align-items-center"> Ervaring </span>
 								</div>
 								<h3>
-									+8
+									+8{' '}
 									<span className="text-300">jaar </span>
-									ervaring
+									ervaring{' '}
 									<span className="text-300">
 										in <br />
-										webontwikkeling
+										development en AI
 									</span>
 								</h3>
 								<div className="row mt-5">
@@ -31,37 +31,37 @@ export default function Experience2() {
 											<Link href="#" className="technology border border-1 rounded-3 p-3">
 												<div className="d-flex align-items-center gap-2">
 													<div className="d-flex flex-column ms-2">
-														<h5 className="mb-1">Web Designer</h5>
-														<span className="text-300">2017 - Present</span>
+														<h5 className="mb-1">Freelance AI-developer · ZZP</h5>
+														<span className="text-300">2023 - heden</span>
 													</div>
 												</div>
 											</Link>
 											<Link href="#" className="technology border border-1 rounded-3 p-3">
 												<div className="d-flex align-items-center gap-2">
 													<div className="d-flex flex-column ms-2">
-														<h5 className="mb-1">ROC Leiden</h5>
-														<span className="text-300">2014 - 2017</span>
+														<h5 className="mb-1">Affiliate marketing · eigen bedrijf</h5>
+														<span className="text-300">2018 - 2023</span>
 													</div>
 												</div>
 											</Link>
 										</div>
 									</div>
 									<div className="col-lg-8 ps-lg-5 mt-5 mt-lg-0">
-										<h4 className="text-linear-4">Full-Stack Web Designer</h4>
+										<h4 className="text-linear-4">AI-developer · LLM&apos;s, agents &amp; workflows</h4>
 										<ul className="mt-4">
-											<li className="text-300 mb-3">Gespecialiseerd in het bouwen van <span className="text-secondary-2">WordPress</span> en <span className="text-secondary-2">Shopify</span> websites, en moderne <span className="text-secondary-2">React/Next.js applicaties</span>.</li>
-											<li className="text-300 mb-3">Realiseerde 20+ professionele websites - van eenvoudige templates tot complexe custom applicaties.</li>
-											<li className="text-300 mb-3">Gebruik AI-tools zoals Claude Code en Cursor vooral bij React/Next.js projecten voor snellere ontwikkeling.</li>
-											<li className="text-300 mb-3">Kan elke gewenste functionaliteit implementeren - API integraties, databases, betalingen, etc.</li>
-											<li className="text-300 mb-3">Afgestudeerd in <span className="text-secondary-2">Applicatie Ontwikkeling</span> bij ROC Leiden (2014-2017).</li>
+											<li className="text-300 mb-3">Bouwde en lanceerde <span className="text-secondary-2">5 eigen AI-SaaS-producten</span>: HuurVos, Swaytype, Braxiq, Viopage en Auralomera.</li>
+											<li className="text-300 mb-3">Twee <span className="text-secondary-2">iOS-apps in de App Store</span>: Swaytype (AI-toetsenbord in SwiftUI) en de HuurVos-app (APNs-push).</li>
+											<li className="text-300 mb-3">Agentic workflows met <span className="text-secondary-2">Claude Code, Codex en MCP</span>: multi-agent pijplijnen voor code, content en advertenties.</li>
+											<li className="text-300 mb-3">LLM-API&apos;s (<span className="text-secondary-2">Anthropic, OpenAI</span>) en infra end-to-end in productie: Supabase, Vercel, Stripe, Sentry en Playwright.</li>
+											<li className="text-300 mb-3">Daarnaast conversiegerichte klantwebsites in Next.js, WordPress en Shopify; opleiding Applicatieontwikkeling (ROC Leiden).</li>
 										</ul>
 										<div className="d-flex flex-wrap align-items-center gap-3 mt-7">
 											<Link href="#" className="text-300 border border-1 px-3 py-1">Next.js</Link>
-											<Link href="#" className="text-300 border border-1 px-3 py-1">React</Link>
-											<Link href="#" className="text-300 border border-1 px-3 py-1">WordPress</Link>
+											<Link href="#" className="text-300 border border-1 px-3 py-1">TypeScript</Link>
+											<Link href="#" className="text-300 border border-1 px-3 py-1">Supabase</Link>
 											<Link href="#" className="text-300 border border-1 px-3 py-1">Claude Code</Link>
-											<Link href="#" className="text-300 border border-1 px-3 py-1">Midjourney</Link>
-											<Link href="#" className="text-300 border border-1 px-3 py-1">Marketing</Link>
+											<Link href="#" className="text-300 border border-1 px-3 py-1">MCP</Link>
+											<Link href="#" className="text-300 border border-1 px-3 py-1">Anthropic API</Link>
 										</div>
 									</div>
 								</div>

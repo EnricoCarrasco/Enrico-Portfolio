@@ -18,7 +18,7 @@ export default function Skills2() {
 										</svg>
 										<span className="text-linear-4 d-flex align-items-center"> Skills </span>
 									</div>
-									<h3>My Skills</h3>
+									<h3>Waar ik mee werk</h3>
 								</div>
 								<div className="container mt-8">
 									<div className="row">
@@ -83,32 +83,32 @@ export default function Skills2() {
 														<ul className="ps-3 d-flex flex-column justify-content-between h-100 position-relative">
 															<li className="mb-3">
 																<div className="d-flex flex-column flex-md-row gap-2">
-																	<p className="text-dark text-nowrap mb-0">CMS Platforms:</p>
-																	<span className="text-300">WordPress, Shopify (volledig zelfstandig)</span>
+																	<p className="text-dark text-nowrap mb-0">AI &amp; agents:</p>
+																	<span className="text-300">Claude Code, Codex, MCP, Anthropic API, OpenAI API</span>
 																</div>
 															</li>
 															<li className="mb-3">
 																<div className="d-flex flex-column flex-md-row gap-2">
-																	<p className="text-dark text-nowrap mb-0">Modern Development:</p>
-																	<span className="text-300">Next.js, React (met AI-tools), HTML, CSS, Javascript, PHP</span>
+																	<p className="text-dark text-nowrap mb-0">Development:</p>
+																	<span className="text-300">Next.js, React, TypeScript, Node, Python, SwiftUI; WordPress en Shopify voor klantwerk</span>
 																</div>
 															</li>
 															<li className="mb-3">
 																<div className="d-flex flex-column flex-md-row gap-2">
-																	<p className="text-dark text-nowrap mb-0">AI Tools:</p>
-																	<span className="text-300">Claude Code, Cursor, Codex, Midjourney, OpenAI APIs</span>
+																	<p className="text-dark text-nowrap mb-0">AI-media:</p>
+																	<span className="text-300">fal.ai, ElevenLabs, HeyGen, Remotion, Midjourney</span>
 																</div>
 															</li>
 															<li className="mb-3">
 																<div className="d-flex flex-column flex-md-row gap-2">
 																	<p className="text-dark text-nowrap mb-0">Marketing:</p>
-																	<span className="text-300">SEO, Social Media, Google Ads, Facebook(Meta) Ads</span>
+																	<span className="text-300">SEO, Meta Ads, Google Ads, Pixel en Conversions API</span>
 																</div>
 															</li>
 															<li className="mb-3">
 																<div className="d-flex flex-column flex-md-row gap-2">
-																	<p className="text-dark text-nowrap mb-0">Design Tools:</p>
-																	<span className="text-300">Figma, Midjourney, Photoshop</span>
+																	<p className="text-dark text-nowrap mb-0">Data &amp; infra:</p>
+																	<span className="text-300">Supabase, PostgreSQL, Stripe, Vercel, Railway, Sentry</span>
 																</div>
 															</li>
 														</ul>

@@ -55,8 +55,8 @@ export default function Projects2() {
 									</svg>
 									<span className="text-linear-4 d-flex align-items-center"> Projecten </span>
 								</div>
-								<h3>Recent Gemaakte Websites</h3>
-								<p className="text-300">Mijn recent ontwikkelde websites - van concept tot realisatie</p>
+								<h3>Recente projecten</h3>
+								<p className="text-300">Van AI-SaaS en iOS-apps tot websites, van concept tot live</p>
 
 								{/* Eigen SaaS, Apps & AI */}
 								<div className="mt-5">
