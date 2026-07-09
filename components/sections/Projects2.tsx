@@ -72,7 +72,7 @@ export default function Projects2() {
 												<img className="w-100 mb-3" src="assets/imgs/home-page-2/projects/huurvos.jpg" alt="HuurVos" />
 												<span className="badge bg-primary-2 text-dark align-self-start mb-2">AI-SaaS</span>
 												<h4 className="text-linear-4 mb-2">HuurVos</h4>
-												<p className="text-300">Betaalde huuralert-SaaS: scant 40+ huursites realtime en stuurt alerts binnen seconden, met AI-reactiebrieven.</p>
+												<p className="text-300">Betaalde huuralert-SaaS: scant 40+ huursites realtime en stuurt alerts binnen seconden, met AI-reactiebrieven. Ook als iOS-app in de App Store.</p>
 												<Link href="https://huurvos.nl" target="_blank" className="text-300 border-bottom border-1 px-2 pb-2 link-hover mt-auto align-self-start">
 													<svg xmlns="http://www.w3.org/2000/svg" width={13} height={13} viewBox="0 0 13 13" fill="none"><path d="M11.0037 3.91421L2.39712 12.5208L0.98291 11.1066L9.5895 2.5H2.00373V0.5H13.0037V11.5H11.0037V3.91421Z" fill="#8F8F92" /></svg>
 													Bezoek
